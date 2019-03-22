@@ -419,7 +419,7 @@
       }
 
       /**
-       * Gets the file name
+       * Gets the file size
        */
 
     }, {
